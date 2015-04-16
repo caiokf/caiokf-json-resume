@@ -1,0 +1,38 @@
+{
+  "basics": {
+    "name": "Caio Kinzel Filho",
+    "label": "Consultant Developer",
+    "picture": "http://www.gravatar.com/avatar/82c169bc19ec0a21b7fbcd2043fd4ad2.png",
+    "email": "caiokf@gmail.com",
+    "phone": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "caiokf",
+        "url": "https://github.com/caiokf"
+      }
+    ]
+  },
+  "languages": [
+    {
+      "language": "Portuguese",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Basic"
+    }
+  ]
+}
