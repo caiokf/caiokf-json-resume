@@ -9,9 +9,9 @@
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "",
-      "countryCode": "",
-      "region": ""
+      "city": "Porto Alegre",
+      "countryCode": "BR",
+      "region": "Rio Grande do Sul"
     },
     "profiles": [
       {
