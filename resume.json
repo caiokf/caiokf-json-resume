@@ -88,6 +88,17 @@
     ]
   },
   {
+    "company": "Zeta Informática",
+    "position": "Developer",
+    "website": "http://zeta.com.br",
+    "startDate": "2005-11-01",
+    "endDate": "2006-07-01",
+    "summary": "In-house developed ERP system. As a developer, I worked on some of the application modules in Clarion language, with Topspeed database.",
+    "highlights": [
+      "Clarion, Topspeed"
+    ]
+  },
+  {
     "company": "Server Informática",
     "position": "Developer",
     "website": "http://www.serverinformatica.com.br",
