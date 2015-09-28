@@ -72,7 +72,19 @@
     "summary": "This digital design company was hired to build an e-commerce portal solution for a large client. This project consisted on a concept they called \"virtual shopping center\", where users could buy an e-commerce store on-line  and customize it. This solution was a greenfield application, though it needed to integrate with some systems and had some restrictions on the programming language, with certain architectural decisions required by the client. I was brought in to design the solution architecture and the development kick-off of the project working with a Product Owner, a Project Manager, and 7 Application/Database developers through the completion of the project. This project was develop in VB.NET and ASP.NET WebForms technology in a mix of Waterfall and Iterative methodologies, with the a closed-scope defined prior to the start of the project and a very short  deadline.",
     "highlights": [
       "VB.NET, MSSQL",
-      "E-commerce multi-tiered application"
+      "E-commerce multi-tiered application",
+      "Responsible for architecture definition"
+    ]
+  },
+  {
+    "company": "Solon Tavares Technical State School",
+    "position": "Trainer",
+    "website": "http://solontavares.com/",
+    "startDate": "2006-05-01",
+    "endDate": "2007-011-01",
+    "summary": "Part time trainer on this state-run technical school, teaching subjects on the course of Software Development and Analysis. Among some of the subjects taught are: Software  Development, Systems Analysis, Object-Oriented Programming and Design, and Data Structures and Algorithms.",
+    "highlights": [
+      "Formal teaching experience"
     ]
   }
   ]
