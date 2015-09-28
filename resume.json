@@ -81,10 +81,21 @@
     "position": "Trainer",
     "website": "http://solontavares.com/",
     "startDate": "2006-05-01",
-    "endDate": "2007-011-01",
+    "endDate": "2007-11-01",
     "summary": "Part time trainer on this state-run technical school, teaching subjects on the course of Software Development and Analysis. Among some of the subjects taught are: Software  Development, Systems Analysis, Object-Oriented Programming and Design, and Data Structures and Algorithms.",
     "highlights": [
       "Formal teaching experience"
+    ]
+  },
+  {
+    "company": "Server Informática",
+    "position": "Developer",
+    "website": "http://www.serverinformatica.com.br",
+    "startDate": "2005-01-01",
+    "endDate": "2005-06-01",
+    "summary": "ServerObras is the main product of this company, and it's focused on the construction sector for architecture and engineering contractors, used by the some of the largest construction companies in Brazil. As a developer on this project, I worked with Visual Basic 6 and ASP.",
+    "highlights": [
+      "Visual Basic 6, Classic ASP, MSSQL"
     ]
   }
   ],
