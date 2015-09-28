@@ -123,6 +123,22 @@
     ]
   }
   ],
+  "skills": [{
+    "name": "Web Development",
+    "keywords": [
+      "HTML5", "Javascript", "REACT JS", "Angular", "CSS/Less/SASS"
+    ]},
+    {
+    "name": "Server-side Development",
+    "keywords": [
+      "C#", "Node.js", "NOSQL databases"
+    ]},
+    {
+    "name": "Agile practices",
+    "keywords": [
+      "Responsive development practices and processes", "Continuous Delivery", "Test automation", "Kanban"
+    ]
+  }],
   "education": [{
     "institution": "Universidade Estadual do Rio Grande do Sul",
     "area": "Digital Systems Engineering",
