@@ -87,5 +87,12 @@
       "Formal teaching experience"
     ]
   }
-  ]
+  ],
+  "education": [{
+    "institution": "Universidade Estadual do Rio Grande do Sul",
+    "area": "Digital Systems Engineering",
+    "studyType": "Bachelor",
+    "startDate": "2003-02-01",
+    "endDate": "2008-12-01"
+  }],
 }
