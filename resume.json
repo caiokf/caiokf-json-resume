@@ -36,6 +36,19 @@
     }
   ],
   "work": [{
+    "company": "TOTVS",
+    "position": "Senior Web Developer",
+    "website": "http://totvs.com",
+    "startDate": "2009-09-01",
+    "endDate": "2010-02-01",
+    "summary": "This software factory works in the field of hospital management systems inside a large Enterprise of ERP systems. The product is used on some of the largest hospitals in Brazil, managing most of their processes and integrating with ERP systems, built using ASP.NET WebForms, AJAX  and COM+ technologies, with Oracle and MS SQL Server databases. The project had 15+ years old and was maintained by 50 developers using RUP methodologies. I worked as a developer and helped in the transition from old VCS to Subversion and advocated the use of Continuous Integration and unit testing practices that was later adopted by the company",
+    "highlights": [
+      "C#, MSSQL, Oracle",
+      "Large enterprise multi-tenant software",
+      "Microsoft Workflow Foundation experience"
+    ]
+  },
+  {
     "company": "Farmácias Aguiar / HOS",
     "position": "Technical Lead",
     "website": "http://hos.com.br",
@@ -48,19 +61,6 @@
       "Working closely with business experts",
       "Migration from VB6 to .NET technologies",
       "Onboarding team members onto Agile practices"
-    ]
-  },
-  {
-    "company": "TOTVS",
-    "position": "Senior Web Developer",
-    "website": "http://totvs.com",
-    "startDate": "2009-09-01",
-    "endDate": "2010-02-01",
-    "summary": "This software factory works in the field of hospital management systems inside a large Enterprise of ERP systems. The product is used on some of the largest hospitals in Brazil, managing most of their processes and integrating with ERP systems, built using ASP.NET WebForms, AJAX  and COM+ technologies, with Oracle and MS SQL Server databases. The project had 15+ years old and was maintained by 50 developers using RUP methodologies. I worked as a developer and helped in the transition from old VCS to Subversion and advocated the use of Continuous Integration and unit testing practices that was later adopted by the company",
-    "highlights": [
-      "C#, MSSQL, Oracle",
-      "Large enterprise multi-tenant software",
-      "Microsoft Workflow Foundation experience"
     ]
   },
   {
