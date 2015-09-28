@@ -35,7 +35,27 @@
       "fluency": "Intermediate"
     }
   ],
-  "work": [{
+  "work": [
+  {
+    "company": "ThoughtWorks",
+    "position": "Lead Consultant",
+    "website": "https://www.thoughtworks.com",
+    "startDate": "2010-02-01",
+    "endDate": "2015-02-01",
+    "summary": "As a consultant, I participated in a few different projects in the course of the years with top developer from around the world. Ranging from large-scale Java enterprise apps, to Node.js applications, focusing on development processes and team practices, code quality and testability, I have worked in many different environments thoughout these years.",
+    "highlights": [
+      "World leading agile methodology",
+      "Continuous Delivery experiences",
+      "Consulting and coaching experience",
+      "Project - World’s largest apparel retailer: Large-scale enterprise app, Java based",
+      "Project - Industry leader in the development of customized student assessments: C#, ALT.NET stack, rich client, heavy on object oriented Javascript",
+      "Project - Brazil's leading magazine publisher: Ruby, Sinatra, REST, Redis",
+      "Project - Customized survey provider: C#, Polyglot persistence, Continuous Delivery pipeline",
+      "Project - Stock Exchange: C#, Javascipt, AngularJS, sucessful pilot project for company wide Agile transformation",
+      "Project - Managed cloud computing provider: Javascript, Google Closure, Multiple deploys per day Continuous Delivery pipeline"
+    ]
+  },
+  {
     "company": "TOTVS",
     "position": "Senior Web Developer",
     "website": "http://totvs.com",
@@ -116,5 +136,5 @@
     "studyType": "Bachelor",
     "startDate": "2003-02-01",
     "endDate": "2008-12-01"
-  }],
+  }]
 }
